@@ -1,0 +1,132 @@
+/*!
+ * Start Bootstrap - Scrolling Nav HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+  padding-top: 150px;
+  text-align: center;
+  background: url(http://www.wallpaperup.com/uploads/wallpapers/2013/04/02/69446/ba7112bbfc78e012e2ce7e1b0c3bb655.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  color:white;
+}
+
+.about-section {
+    text-align: center;
+    background-color: #e74c3c;
+    font-size:25px;
+    padding-bottom: 350px;
+    padding-top: 100px;
+}
+
+.services-section {
+    text-align: center;
+    background-color: #27ae60;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    color: white;
+
+
+}
+
+#contact {
+    text-align: center;
+    background-color: #2980b9;
+    font-size:25px;
+    color: white;
+    padding-bottom: 300px;
+    padding-top: 225px;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+    width: 100%;
+    height: 100%;
+}
+.navbar-default {
+   background-color: rgba(200,200,200,.6);
+   font-size: 15px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+
+ }
+
+#welcome {
+  font-size: 30px;
+}
+.btn {
+   border-radius: 0;
+   text-transform: uppercase;
+   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-weight: 400;
+   -webkit-transition: all .3s ease-in-out;
+   -moz-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out;
+}
+
+.btn-default {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-top: 50px;
+   }
+.btn-default:hover {
+  color: #2980b9;
+}
+#project1 {
+  height: 300px;
+  background-image: url("http://i.imgur.com/pOU64O8.jpg");
+  background-position: left;
+  background-size: cover;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border: solid white 2px;
+}
+#project2 {
+  background-image: url("http://i.imgur.com/MpxaHqS.png");
+  background-position: top;
+  background-size: cover;
+  height: 300px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border: solid white 2px;
+}
+
+#aboutme {
+  margin-bottom: 250px;
+}
+.aboutwords{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+
+}
