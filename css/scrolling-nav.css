@@ -49,7 +49,7 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background-color: #27ae60;
     padding-bottom: 300px;
-    padding-top: 0px;
+    padding-top: 40px;
     color: white;
 
 
@@ -61,7 +61,7 @@ of those sections to manage the look and feel of the site. */
     font-size:25px;
     color: white;
     padding-bottom: 300px;
-    padding-top: 225px;
+    padding-top: 140px;
 }
 
 html {
@@ -133,8 +133,11 @@ body {
   margin-bottom: 250px;
 }
 .aboutwords{
-  margin-left: 200px;
-  margin-right: 200px;
   margin-top: 50px;
 
 }
+.footer {
+  margin-top: 80px;
+  font-size: 60px;
+}
+
