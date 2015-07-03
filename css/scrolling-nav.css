@@ -43,10 +43,10 @@
 .services-section {
     text-align: center;
     background: url(http://www.wallpaperup.com/uploads/wallpapers/2013/04/02/69446/ba7112bbfc78e012e2ce7e1b0c3bb655.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     /*background-color: #27ae60;*/
     padding-bottom: 300px;
     padding-top: 40px;
