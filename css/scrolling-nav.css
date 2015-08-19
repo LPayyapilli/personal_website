@@ -37,7 +37,7 @@
     background-color: #e74c3c;
     font-size:25px;
     padding-bottom: 450px;
-    padding-top: 120px;
+    padding-top: 70px;
 }
 
 .services-section {
@@ -130,11 +130,11 @@ body {
   border: solid white 2px;
 }
 #aboutme {
-  margin-bottom: 250px;
+  margin-bottom: 100px;
 }
 .aboutwords{
   margin-top: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 
 }
 .footer {
@@ -142,21 +142,5 @@ body {
   font-size: 60px;
 }
 
-#skills {
-  font-size: 25px;
-  width: 15%;
-  border: solid rgb(51, 51, 51) 2px;
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 100px;
-  text-align: center;
-  background-color: rgba(249, 237, 234, .7);
-}
 
-#skillers {
-  margin-bottom: 100px;
-}
 
-#devicon-ruby-plain {
-
-}
